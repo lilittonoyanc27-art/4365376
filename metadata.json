@@ -1,0 +1,6 @@
+{
+  "name": "Palabras y significados | Իսպաներեն — Հայերեն",
+  "description": "Իսպաներեն լեզվի ուսուցման ինտերակտիվ հավելված՝ Բառեր և իմաստներ (Palabras y significados) թեմայով, սեղմելիս հայերեն թարգմանությամբ և հնչյունավորմամբ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
